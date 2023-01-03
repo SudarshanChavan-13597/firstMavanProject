@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="assersions.SoftAssertions"/>
+      <class name="enable.EnableClass"/>
+      <class name="annotations1.Annotations"/>
+      <class name="annotations.AnnotationInTestNG"/>
+      <class name="annotations.AnnotationInTestNG2"/>
+      <class name="assersions.HardAssersionsInTestNG"/>
+      <class name="dependant.Dependant"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

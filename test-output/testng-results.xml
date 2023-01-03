@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-30T20:38:41 IST" name="Default suite" finished-at="2022-11-30T20:38:41 IST" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2022-11-30T20:38:41 IST" name="Default test" finished-at="2022-11-30T20:38:41 IST" duration-ms="104">
+      <class name="annotations1.Annotations">
+        <test-method is-config="true" signature="beforeSuiteAnnotation()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="beforeSuiteAnnotation" finished-at="2022-11-30T20:38:41 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteAnnotation -->
+        <test-method is-config="true" signature="beforeTEstAnnotation()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="beforeTEstAnnotation" finished-at="2022-11-30T20:38:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTEstAnnotation -->
+        <test-method is-config="true" signature="beforeClassAnnotation()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="beforeClassAnnotation" finished-at="2022-11-30T20:38:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassAnnotation -->
+        <test-method is-config="true" signature="beforMethodAnnottion()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="beforMethodAnnottion" finished-at="2022-11-30T20:38:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethodAnnottion -->
+        <test-method signature="verifySendEmailWillBeDisplayedInSendItem()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="verifySendEmailWillBeDisplayedInSendItem" finished-at="2022-11-30T20:38:41 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySendEmailWillBeDisplayedInSendItem -->
+        <test-method is-config="true" signature="afterMethodAnnottion()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="afterMethodAnnottion" finished-at="2022-11-30T20:38:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodAnnottion -->
+        <test-method is-config="true" signature="beforMethodAnnottion()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="beforMethodAnnottion" finished-at="2022-11-30T20:38:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethodAnnottion -->
+        <test-method signature="verifyUserCanLoginWithVAlidCredential()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="verifyUserCanLoginWithVAlidCredential" finished-at="2022-11-30T20:38:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanLoginWithVAlidCredential -->
+        <test-method is-config="true" signature="afterMethodAnnottion()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="afterMethodAnnottion" finished-at="2022-11-30T20:38:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodAnnottion -->
+        <test-method is-config="true" signature="beforMethodAnnottion()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="beforMethodAnnottion" finished-at="2022-11-30T20:38:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethodAnnottion -->
+        <test-method signature="verifyUserCanNotLoginWithInvalidCredentials()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="verifyUserCanNotLoginWithInvalidCredentials" finished-at="2022-11-30T20:38:41 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanNotLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="afterMethodAnnottion()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="afterMethodAnnottion" finished-at="2022-11-30T20:38:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodAnnottion -->
+        <test-method is-config="true" signature="beforMethodAnnottion()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="beforMethodAnnottion" finished-at="2022-11-30T20:38:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethodAnnottion -->
+        <test-method signature="verifyUserCanSendEmail()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="verifyUserCanSendEmail" finished-at="2022-11-30T20:38:41 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanSendEmail -->
+        <test-method is-config="true" signature="afterMethodAnnottion()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="afterMethodAnnottion" finished-at="2022-11-30T20:38:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodAnnottion -->
+        <test-method is-config="true" signature="afterClassAnnotation()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="afterClassAnnotation" finished-at="2022-11-30T20:38:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassAnnotation -->
+        <test-method is-config="true" signature="afterTestAnnotation()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="afterTestAnnotation" finished-at="2022-11-30T20:38:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestAnnotation -->
+        <test-method is-config="true" signature="afterSuiteAnnotation()[pri:0, instance:annotations1.Annotations@57d7f8ca]" started-at="2022-11-30T20:38:41 IST" name="afterSuiteAnnotation" finished-at="2022-11-30T20:38:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteAnnotation -->
+      </class> <!-- annotations1.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
